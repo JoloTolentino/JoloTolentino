@@ -1,5 +1,6 @@
 - 👋 Hi, I’m @Jolo Tolentino
 - 👀 I’m interested in robotic research, which includes computer vision and autonomous systems (detectrons)
+- ✨My fascination for GAN's has recently been growing and will probably soon do a deep dive into the topic
 - 🌱 I’m currently learning Neural Radiance Fields (3D rendering using a set of images)
 - 📫 How to reach me ma92b202@stust.edu.tw
 
